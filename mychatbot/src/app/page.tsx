@@ -47,7 +47,7 @@ declare global {
 }
 
 const THEME_KEY = "chatbot-theme";
-const GEMINI_API_KEY = "AIzaSyAE2Q3e9GRIX-PGMYelQ4BQ3eoMLUlVZh0"; // Replace securely in prod
+const GEMINI_API_KEY = ; // Replace securely in prod
 const MEETINGS_KEY = "meeting-summaries";
 
 export default function MeetingSummarizer() {
